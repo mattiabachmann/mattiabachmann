@@ -7,7 +7,8 @@ Interested in aerial robotics, control systems, embedded systems, machine learni
 
 ## Selected Projects
 
-### STM32-Based Quadcopter | Ongoing
+
+### [STM32-Based Quadcopter](https://github.com/mattiabachmann/stm32-quadcopter) | Ongoing
 Independent development of a custom quadcopter with STM32-based flight control, sensor integration, electrical schematics in KiCad and collaborative mechanical design in Onshape.
 
 
