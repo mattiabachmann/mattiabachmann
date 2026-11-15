@@ -15,9 +15,6 @@ Independent development of a custom quadcopter with STM32-based flight control, 
 ### [Agricultural Robot](https://github.com/mattiabachmann/agricultural-robot) | ETH Innovation Project, 2025
 Team development of a small-scale agricultural robot for harvesting miniature apples and plums and planting onions. My contributions included PID drivetrain control, mechanical mechanisms, CAD design and responsibility for 3D printing.
 
-### Image-Based Regression | ETH Machine Learning Project, 2026
-Image-based estimation of object characteristics and distances using Python and machine learning regression methods.
-
 ## Technical Interests
 
 Robotics · Control Systems · Embedded Programming · CAD & Rapid Prototyping · Machine Learning
