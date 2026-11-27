@@ -11,6 +11,9 @@ Interested in aerial robotics, control systems, embedded systems, machine learni
 ### [STM32-Based Quadcopter](https://github.com/mattiabachmann/stm32-quadcopter) | Ongoing
 Independent development of a custom quadcopter with STM32-based flight control, sensor integration, electrical schematics in KiCad and collaborative mechanical design in Onshape.
 
+### Two-Axis IMU-Based Gimbal | Ongoing
+Developement of a two-axis self-stabilizing gimbal for roll and pitch compensation using STM32-based control, IMU sensor fusion and PID control. 
+
 
 ### [Agricultural Robot](https://github.com/mattiabachmann/agricultural-robot) | ETH Innovation Project, 2025
 Team development of a small-scale agricultural robot for harvesting miniature apples and plums and planting onions. My contributions included PID drivetrain control, mechanical mechanisms, CAD design and responsibility for 3D printing.
